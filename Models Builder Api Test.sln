@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsBuilderApi.Site", "ModelsBuilderApi.Site\ModelsBuilderApi.Site.csproj", "{FC8C76E7-6899-47BA-B318-04C7CE515BDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsBuilderApi.Core", "ModelsBuilderApi.Core\ModelsBuilderApi.Core.csproj", "{FE84FB33-F4D7-4B6F-861F-274391C24180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC8C76E7-6899-47BA-B318-04C7CE515BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC8C76E7-6899-47BA-B318-04C7CE515BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC8C76E7-6899-47BA-B318-04C7CE515BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE84FB33-F4D7-4B6F-861F-274391C24180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE84FB33-F4D7-4B6F-861F-274391C24180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE84FB33-F4D7-4B6F-861F-274391C24180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE84FB33-F4D7-4B6F-861F-274391C24180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
